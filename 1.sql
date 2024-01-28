@@ -6,3 +6,4 @@ SELECT
 FROM dannys_diner.sales
 JOIN dannys_diner.menu ON sales.product_id = menu.product_id
 GROUP BY sales.customer_id
+ORDER BY sales.customer_id;
