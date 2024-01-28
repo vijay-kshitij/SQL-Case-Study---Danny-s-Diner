@@ -1,5 +1,5 @@
 # SQL-Case-Study---Danny-s-Diner
-[Link] (https://8weeksqlchallenge.com/case-study-1/)
+https://8weeksqlchallenge.com/case-study-1/
 
 ### Case Study Questions
 
